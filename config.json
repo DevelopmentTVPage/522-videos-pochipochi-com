@@ -10,6 +10,18 @@
         "loginId": "1758904",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "pochipochi.com"
+        "cookiedomain": "pochipochi.com",
+        "player": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin"
+                ],
+                "domain": "videos.pochipochi.com"
+            }
+        }
     }
 }
